@@ -1,3 +1,9 @@
+libpeas (1.30.0-4deepin1) unstable; urgency=medium
+
+  * No source change upload against python 3.12.
+
+ -- Tianyu Chen <sweetyfish@deepin.org>  Mon, 08 Jul 2024 09:51:30 +0200
+
 libpeas (1.30.0-4) unstable; urgency=medium
 
   * debian/rules: Set the timeout multiplier for the tests to 6
